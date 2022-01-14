@@ -70,7 +70,7 @@ Deverá ser possível adicionar uma imagem à uma receita, utilizando o upload d
 
 - `npm install`
 
-3.Inicie o serviço do banco de dados mongoDB
+3. Inicie o serviço do banco de dados mongoDB
 https://www.npmjs.com/package/mongodb
 
 Para iniciar o banco : `sudo systemctl start mongod. service` (se não tiver instalado ainda `npm i mongodb`)
