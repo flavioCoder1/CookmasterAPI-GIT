@@ -75,7 +75,7 @@ https://www.npmjs.com/package/mongodb
 
 Para iniciar o banco : `sudo systemctl start mongod. service` (se não tiver instalado ainda `npm i mongodb`)
 
-Para resetar o banco: sudo service mongod restart
+Para resetar o banco: `sudo service mongod restart`
 
 4. Rode o mongoDB e o Node e execute as requisições onde preferir
 
