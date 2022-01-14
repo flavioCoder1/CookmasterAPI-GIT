@@ -78,6 +78,8 @@ https://www.npmjs.com/package/mongodb
 
 - Para resetar o banco: `sudo service mongod restart`
 
+- Para entrar no banco: `mongod`
+
 4. Rode o mongoDB e o Node e execute as requisições onde preferir
 
 ---
