@@ -80,7 +80,7 @@ https://www.npmjs.com/package/mongodb
 
 - Para entrar no banco: `mongod`
 
-4. Rode o mongoDB e o Node e execute as requisições onde preferir
+4. Rode o mongoDB e o Node e execute as requisições onde preferir (Utilizei o Insomnia)
 
 ---
 
