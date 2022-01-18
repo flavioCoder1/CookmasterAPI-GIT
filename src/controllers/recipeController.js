@@ -45,7 +45,6 @@ const uploadImage = async (req, res) => {
   const { code, message } = await recipeService.update(id, req.user, { image });
   if (code) return res.status(code).json({ message });
   const { recipe } = await recipeService.getById(id);
-  console.log(recipe);
   res.status(200).json(recipe);
 };
 
