@@ -39,7 +39,7 @@ Habilidades desenvolvidas no projeto:
 
 ## O que foi desenvolvido
 
-Foi desenvolvido um app utilizando a arquitetura MSC!
+Foi desenvolvido um app utilizando a arquitetura MSC! (Model-Service-Controller)
 
 Neste novo projeto deverá ser possível fazer o cadastro e login de pessoas usuárias, onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou.
 
