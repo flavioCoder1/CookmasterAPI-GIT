@@ -31,7 +31,7 @@ Habilidades desenvolvidas no projeto:
 
 - Salvar arquivos no servidor através de uma API REST;
 
-- Consultar arquivos do servidor através de uma api REST.
+- Consultar arquivos do servidor através de uma API REST.
 
 - Realizar testes de integração
 
